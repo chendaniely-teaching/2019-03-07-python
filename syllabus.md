@@ -4,9 +4,9 @@ layout: default
 
 # Syllabus and Class Notes
 
-A list to the notes from class can be found [here](https://github.com/chendaniely/2018-10-python1/tree/master/notebooks).
-
-### Day 1
+<!--
+A list to the notes from class can be found [here]().
+-->
 
 - Running python
 	- Anaconda, Python, IPython, and Jupyter notebooks
