@@ -16,6 +16,8 @@ A good list of courses from DataCamp to continue your learning journey.
 For some of the classes, I've listed the chapters you can go through without taking the entire course.
 The list of DataCamp courses are growing, but this should be a good place to start.
 
+- [Parallel Computing with Dask][100]
+    - Take the Python workflows you currently have and easily scale them up to large datasets without the need for distributed computing environments.
 - [Cleaning Data in Python][1]
 	- Review from the class
 - [Supervised Learning with scikit-learn][2]
@@ -77,3 +79,4 @@ The list of DataCamp courses are growing, but this should be a good place to sta
 [19]: https://www.datacamp.com/courses/statistical-thinking-in-python-part-2
 [17]: https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python
 [18]: https://www.datacamp.com/courses/introduction-to-relational-databases-in-python
+[100]: https://www.datacamp.com/courses/parallel-computing-with-dask
