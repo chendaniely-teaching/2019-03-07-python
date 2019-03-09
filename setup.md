@@ -90,7 +90,25 @@ To install the packages needed for the class you can follow the instructions bel
 	  you can paste by pressing shift + insert,
 	  or by clicking the icon to the top left of the Anaconda Command promt then edit then paste
 
+If you are just following along with the class, you may only need to run the following command:
+
+```bash
+conda install -c conda-forge feather-format
+```
+
+If you're following along with the book,
+you might want to install everything else that is needed.
+
+```bash
+conda install -c conda-forge feather-format wget
+pip install lifelines pandas-datareader
+```
+
+If you installed minicond, instead of anaconda,
+you would need to run the following commands to make sure you have everything.
+
 ``` bash
-conda install xlwt openpyxl feather-format seaborn statsmodels scikit-learn regex wget odo numba
+conda install xlwt openpyxl seaborn statsmodels scikit-learn regex odo numba
+conda install -c conda-forge feather-format wget
 pip install lifelines pandas-datareader
 ```
